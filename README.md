@@ -41,7 +41,7 @@ When running site scans, verifying agent-friendliness, or debugging how links ap
 
 ### 🤝 Connect with Me
 
-*   **LinkedIn:** [[Your LinkedIn Profile Link Here](https://www.linkedin.com/in/natalia-mikhailova/)]
+*   **LinkedIn:** [[Here](https://www.linkedin.com/in/natalia-mikhailova/)]
 *   **Domain Expertise:** #ProductManagement #DigitalStrategy #TechnicalSEO #GEO
 
 *“When you make it effortless for an AI agent to navigate your site, you stop being just a link and start being the source of truth.”*
